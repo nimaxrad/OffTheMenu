@@ -7,7 +7,7 @@
   <a href="https://youtu.be/mYbKIifXgP0">▶ Watch the Trailer</a>
 </p>
 
-### CMPT 276 – Group 4
+### About
 
 A 2D arcade game built with Java and Swing. Play as a pig escaping a farm, collect your fellow companions (pigs) to open the barn, dodge farmers, and avoid electric fences!
 
